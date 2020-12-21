@@ -1,4 +1,4 @@
-edureka
+python tutorial edureka
 arrays
 data
 structure
